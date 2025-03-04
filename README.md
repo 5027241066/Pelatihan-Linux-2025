@@ -35,9 +35,12 @@ chmod +x plsrunmeiamnotmalwarefr
 ```
 9. Buat file bernama ransom.moolah
 ```bash
-./plsrunmeiamnotmalwarefr
+touch ransom.moolah
 ```
 10. Mematikan process
 ```bash
 ^C
+```
+```bash
+clear
 ```
