@@ -15,7 +15,7 @@ mkdir singing_tutorials && unzip tutorials.zip -d singing_tutorials
 ```
 4. Masuk ke dalam folder "singing_tutorials" dan menampilkan list file termasuk yang tersembunyi
 ```bash
-cd singing_tutorials && ls && ls -a
+cd singing_tutorials && ls -la
 ```
 5. Mencari file "opera" oleh "NBAYoungboy", cari yang berisi FLAG{isi} kemudian tampilkan satu baris dengan link benar dan pipe hasilnya ke flag.txt pada direktori sebelumnya
 ```bash
