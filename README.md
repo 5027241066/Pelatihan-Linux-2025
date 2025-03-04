@@ -45,5 +45,8 @@ touch ransom.moolah
 (or) kill ___
 ```
 ```bash
+rm (file)
+```
+```bash
 clear
 ```
