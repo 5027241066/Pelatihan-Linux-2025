@@ -39,7 +39,10 @@ touch ransom.moolah
 ```
 10. Mematikan process
 ```bash
-kill ___
+^C
+```
+```bash
+(or) kill ___
 ```
 ```bash
 clear
