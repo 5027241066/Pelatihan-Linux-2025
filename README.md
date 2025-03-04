@@ -31,7 +31,7 @@ chmod +x plsrunmeiamnotmalwarefr
 ```
 8. Jalankan program tersebut
 ```bash
-./plsrunmeiamnotmalwarefr
+./plsrunmeiamnotmalwarefr ps aux
 ```
 9. Buat file bernama ransom.moolah
 ```bash
@@ -39,7 +39,7 @@ touch ransom.moolah
 ```
 10. Mematikan process
 ```bash
-^C
+kill ___
 ```
 ```bash
 clear
