@@ -7,7 +7,7 @@ sudo apt install wget unzip xxd && mkdir artist_who_can_sing && cd artist_who_ca
 ```
 2. Mendownload file zip menggunakan wget
 ```bash
-wget https://drive.usercontent.google.com/u/0/uc?id=1lV1HVmPTY_BOAK6ToXymRu7V5eVfR0ut&export=download -O tutorials.zip
+wget "https://drive.usercontent.google.com/u/0/uc?id=1lV1HVmPTY_BOAK6ToXymRu7V5eVfR0ut&export=download" -O tutorials.zip
 ```
 3. Unzip ke dalam folder baru yang bernama “singing_tutorials”
 ```bash
